@@ -1,0 +1,101 @@
+StudentID,Name,Age,City,Course,Score
+1,Sneha,19,Bangalore,Machine Learning,86
+2,Ishaan,22,Mumbai,Java,51
+3,Ishaan,23,Pune,Web Development,86
+4,Rahul,21,Chennai,Web Development,53
+5,Rohan,24,Delhi,Data Science,67
+6,Aarav,21,Chennai,Web Development,86
+7,Diya,21,Hyderabad,Python,100
+8,Rohan,19,Delhi,Data Science,64
+9,Meera,21,Mumbai,Python,99
+10,Rohan,19,Delhi,Data Science,78
+11,Diya,18,Mumbai,Java,77
+12,Diya,23,Hyderabad,Data Science,89
+13,Rohan,23,Hyderabad,Java,94
+14,Arjun,21,Chennai,Machine Learning,51
+15,Rohan,19,Hyderabad,DSA,76
+16,Rohan,20,Hyderabad,DSA,50
+17,Aarav,18,Chennai,Data Science,91
+18,Sneha,19,Bangalore,Python,89
+19,Diya,18,Chennai,Web Development,98
+20,Rohan,22,Mumbai,Machine Learning,81
+21,Kavya,18,Mumbai,DSA,58
+22,Arjun,18,Delhi,Data Science,62
+23,Rohan,21,Chennai,Web Development,97
+24,Meera,25,Bangalore,DSA,78
+25,Kavya,19,Bangalore,Machine Learning,95
+26,Sneha,18,Bangalore,Java,65
+27,Rahul,18,Hyderabad,Python,88
+28,Sneha,18,Delhi,DSA,87
+29,Anika,23,Bangalore,Machine Learning,94
+30,Meera,21,Pune,Python,76
+31,Diya,25,Bangalore,Data Science,93
+32,Sneha,24,Bangalore,DSA,100
+33,Arjun,21,Chennai,Web Development,87
+34,Aarav,23,Mumbai,Data Science,59
+35,Meera,23,Bangalore,Machine Learning,79
+36,Aarav,20,Pune,Web Development,77
+37,Sneha,23,Chennai,Python,87
+38,Meera,21,Pune,Data Science,63
+39,Sneha,18,Chennai,Machine Learning,70
+40,Kavya,25,Pune,Data Science,63
+41,Rohan,24,Pune,DSA,90
+42,Rohan,20,Hyderabad,DSA,93
+43,Anika,20,Hyderabad,Machine Learning,81
+44,Ishaan,23,Bangalore,Java,89
+45,Rahul,22,Chennai,Web Development,85
+46,Sneha,20,Delhi,Python,71
+47,Rohan,22,Delhi,Python,73
+48,Meera,21,Hyderabad,Machine Learning,65
+49,Arjun,22,Hyderabad,Data Science,71
+50,Ishaan,19,Mumbai,Web Development,75
+51,Kavya,25,Chennai,Data Science,86
+52,Meera,22,Delhi,Data Science,63
+53,Arjun,19,Hyderabad,Python,82
+54,Aarav,25,Hyderabad,DSA,95
+55,Aarav,25,Bangalore,Web Development,70
+56,Rahul,18,Mumbai,Web Development,86
+57,Aarav,25,Delhi,DSA,68
+58,Arjun,18,Hyderabad,Java,59
+59,Ishaan,18,Chennai,Python,79
+60,Sneha,18,Delhi,Machine Learning,91
+61,Anika,18,Hyderabad,Data Science,95
+62,Rahul,25,Mumbai,Machine Learning,84
+63,Diya,24,Bangalore,Java,96
+64,Diya,22,Pune,Data Science,94
+65,Diya,25,Chennai,Java,92
+66,Anika,23,Delhi,Machine Learning,64
+67,Sneha,21,Delhi,Java,99
+68,Anika,20,Hyderabad,Machine Learning,83
+69,Rohan,23,Hyderabad,Java,59
+70,Anika,22,Pune,DSA,71
+71,Ishaan,21,Mumbai,Python,53
+72,Ishaan,19,Bangalore,DSA,70
+73,Sneha,19,Chennai,Machine Learning,81
+74,Diya,18,Mumbai,Data Science,74
+75,Kavya,25,Hyderabad,DSA,63
+76,Arjun,24,Mumbai,Machine Learning,78
+77,Rahul,24,Pune,Data Science,54
+78,Diya,20,Bangalore,DSA,51
+79,Aarav,22,Chennai,DSA,65
+80,Aarav,23,Chennai,Python,68
+81,Ishaan,23,Delhi,Data Science,56
+82,Sneha,21,Delhi,Data Science,93
+83,Aarav,22,Chennai,Python,94
+84,Meera,22,Hyderabad,DSA,76
+85,Meera,18,Chennai,Machine Learning,57
+86,Sneha,23,Delhi,Machine Learning,99
+87,Meera,21,Hyderabad,Java,85
+88,Rohan,19,Pune,Data Science,86
+89,Meera,25,Hyderabad,Web Development,60
+90,Sneha,18,Mumbai,Web Development,60
+91,Arjun,22,Delhi,DSA,87
+92,Rohan,24,Pune,Machine Learning,66
+93,Kavya,20,Pune,Python,50
+94,Anika,19,Bangalore,Java,79
+95,Rahul,19,Bangalore,Python,61
+96,Anika,24,Pune,Web Development,82
+97,Diya,20,Chennai,Python,58
+98,Meera,18,Mumbai,Web Development,69
+99,Kavya,23,Bangalore,Web Development,80
+100,Sneha,25,Bangalore,DSA,65
